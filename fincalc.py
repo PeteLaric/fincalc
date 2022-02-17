@@ -18,7 +18,7 @@
 import math
 
 print('\n\n')
-print('Compound Interest Calculator')
+print('Fincalc Financial Calculator by Pete Laric / www.PeteLaric.com')
 print('Select an option:')
 print('*************************************** COMPOUND INTEREST ****************************************')
 print('1. Compute final value from present value, rate, number of periods: FV_N = PV * (1 + r)^N')
